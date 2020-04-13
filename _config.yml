@@ -3,8 +3,8 @@ description: "Portfólio de Wagner Beethoven, designer experiência na concepç�
 slogan: Portfólio do designer Wagner Beethoven!
 image-default: "img/image-default.jpg"
 
-url: ""
-baseurl: ""
+url: https://jhvanderschee.github.io
+baseurl: wagnertest
 permalink:  /:categories/:title.html
 
 sass:
